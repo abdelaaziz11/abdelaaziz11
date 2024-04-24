@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaaziz11&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaaziz11" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/abdel-khouda-502b03253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-khouda-502b03253/" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abdelkhouda" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkhouda?logo=twitter&style=for-the-badge" alt="abdelkhouda" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps Projects & JavaScript**
 
@@ -29,3 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaaziz11&show_icons=true&locale=en" alt="abdelaaziz11" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaaziz11&" alt="abdelaaziz11" /></p>
