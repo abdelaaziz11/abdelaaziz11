@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdelkhouda" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkhouda?logo=twitter&style=for-the-badge" alt="abdelkhouda" /></a> </p>
 
-- 🔭 I’m currently working on **Build portfolio project AICE projects**
+- 🔭 I’m currently working on **Build portfolio project & AICE projects**
 
 - 🌱 I’m currently learning **How to Build portfolio project by Full-Stack & How to use AI tools**
 
