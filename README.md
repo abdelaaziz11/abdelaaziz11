@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front-End & How to use AI tools**
 
-- 👯 I’m looking to collaborate on **Build portfolio project**
+- 👯 I’m looking to collaborate on **portfolio project**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
