@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **WebStack portfolio project**
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 👯 I’m looking to collaborate on **WebStack portfolio project, Full-Stack Project**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
