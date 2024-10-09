@@ -11,11 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Webstack Portfolio**
 
-- 👨‍💻 All of my projects are available at [https://abdelkhouda.netlify.app/](https://abdelkhouda.netlify.app/)
-
 - 📫 How to reach me **abdelkhouda055@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k0RMKoPYeSwAX3xf-r7r-2ARopOLpY_4/view?usp=sharing](https://drive.google.com/file/d/1k0RMKoPYeSwAX3xf-r7r-2ARopOLpY_4/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Funny**
 
