@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React JS & Redux JS**
 
-- 👯 I’m looking to collaborate on **Webstack Portfolio**
-
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
