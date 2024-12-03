@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React JS projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React & Angular &.NET**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
