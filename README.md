@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abdelkhouda" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkhouda?logo=twitter&style=for-the-badge" alt="abdelkhouda" /></a> </p>
 
-- 🔭 I’m currently working on **Angular & .NET project**
+- 🔭 I’m currently working on **React & firebase project**
 
-- 🌱 I’m currently learning **React & Angular &.NET**
+- 🌱 I’m currently learning **React & firebase**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
