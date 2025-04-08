@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React.js & Node.js & MongoDB Project**
 
-- 🌱 I’m currently learning **React.js & Node.js & MongoDB** 
+- 🌱 I’m currently learning **React.js & Node.js & MongoDB**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com** 
 
