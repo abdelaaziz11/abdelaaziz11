@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js & Node.js & MongoDB**
 
-- 📫 How to reach me **abdelkhouda055@gmail.com** 
+- 📫 How to reach me **abdelkhouda055@gmail.com**
 
 - ⚡ Fun fact **I'm Funny** 
 
