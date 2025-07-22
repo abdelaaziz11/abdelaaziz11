@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Share stories Project MERN Stack**
 
-- 🌱 I’m currently learning **React.js & Node.js & MongoDB**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
