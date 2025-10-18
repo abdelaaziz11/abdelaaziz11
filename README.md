@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/abdelkhouda" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkhouda?logo=twitter&style=for-the-badge" alt="abdelkhouda" /></a></p>
 
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Full Stack - Backend**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Backend Dev NodeJS**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
