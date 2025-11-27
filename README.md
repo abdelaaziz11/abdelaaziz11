@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I am Abdelaaziz</h1>
-<h3 align="center">A Software Engineer | Full-Stack Developer | Specialized in Front-End</h3>
+<h3 align="center">A Software Engineer | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaaziz11&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaaziz11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelkhouda" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkhouda?logo=twitter&style=for-the-badge" alt="abdelkhouda" /></a></p>
 
 
-- 🔭 I’m currently working on **Full Stack - Backend**
+- 🔭 I’m currently working on **Full Stack - Frontend**
 
-- 🌱 I’m currently learning **Backend Dev NodeJS**
+- 🌱 I’m currently learning **Frontend Dev ReactJS**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
