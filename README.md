@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**
 
-- 🌱 I’m currently learning **Frontend Dev ReactJS**
+- 🌱 I’m currently learning **Frontend Dev ReactJS / ReduxJS**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
