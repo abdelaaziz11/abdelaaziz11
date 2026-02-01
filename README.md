@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **full stack social media project**
 
-- 🌱 I’m currently learning **full stack Dev**
+- 🌱 I’m currently learning **full stack Development**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
