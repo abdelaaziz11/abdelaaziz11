@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oipSX0og4bCHaotD9ZNvlQHx1D8ubm2_/view?usp=sharing](https://drive.google.com/file/d/1oipSX0og4bCHaotD9ZNvlQHx1D8ubm2_/view?usp=sharing)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
