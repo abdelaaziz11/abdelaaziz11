@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abdelaaziz khouda</h1>
 <h3 align="center">A Software Engineer | Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **full stack project**
+- 🔭 I’m currently working on **full stack project portfolio**
 
 - 🌱 I’m currently learning **full stack Developpment**
 
