@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack Developpment**
 
-- 👨‍💻 All of my projects are available at [https://abdelaazizportfolio.netlify.app/](https://abdelaazizportfolio..netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdelaazizportfolio.netlify.app/](https://abdelaazizportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@abdelkhouda055](https://medium.com/@abdelkhouda055)
 
